@@ -1,0 +1,6 @@
+JMH S 17 ru.vsu.ThreadTest S 59 ru.vsu.jmh_generated.ThreadTest_incrementAtomicLong_jmhTest S 19 incrementAtomicLong S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 17 ru.vsu.ThreadTest S 60 ru.vsu.jmh_generated.ThreadTest_incrementLockSafeInt_jmhTest S 20 incrementLockSafeInt S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 17 ru.vsu.ThreadTest S 61 ru.vsu.jmh_generated.ThreadTest_incrementSynchSafeInt_jmhTest S 21 incrementSynchSafeInt S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 12 ru.vsu.Bench S 53 ru.vsu.jmh_generated.Bench_incrementUnsafeInt_jmhTest S 18 incrementUnsafeInt S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E E E E M 1 14 THREADS_AMOUNT 1 16 1AAMAADAwAA===== U 12 MILLISECONDS E E 
+JMH S 22 ru.vsu.Test.ThreadTest S 63 ru.vsu.Test.jmh_generated.ThreadTest_incrementUnsafeInt_jmhTest S 18 incrementUnsafeInt S 11 AverageTime E A 1 1 1 E E E E E E E I 1 2 E E E E E M 1 14 THREADS_AMOUNT 1 16 1AAMAADAwAA===== U 12 MILLISECONDS E E 
+JMH S 17 ru.vsu.ThreadTest S 58 ru.vsu.jmh_generated.ThreadTest_incrementUnsafeInt_jmhTest S 18 incrementUnsafeInt S 11 AverageTime E A 1 1 1 E I 1 1 E E I 1 1 E E I 1 1 E E E E E E U 12 MILLISECONDS E E 
